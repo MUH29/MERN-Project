@@ -14,9 +14,9 @@ Ainda não foram feitos testes nesse projeto
 
 ## 🛠️ Construído com
 
-* [ReactJS](https://reactjs.org/) - O framework web usado
-* [NodeJS](https://nodejs.org/en/) - O framework web usado
-* [NPM](https://www.npmjs.com/) - Gerente de Dependência
+* [ReactJS](https://reactjs.org/) - Front-End 🖌️
+* [NodeJS](https://nodejs.org/en/) - Back-end 👨‍💻
+* [NPM](https://www.npmjs.com/) - Gerente de Dependência 📥
 
 ## ✒️ Autores
 
