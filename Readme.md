@@ -1,7 +1,7 @@
 <!-- ************************************* Título ********************************************* -->
-# React Dashboard
+# MERN Project
 
-Projeto desenvolvido com ReactJS, com o objetivo de aprimorar minhas skills 
+Projeto desenvolvido com MongoDB, Express, ReactJS e NodeJS com o objetivo de aprimorar minhas skills 
 e aprofundar ainda mais meus conhecimentos na minha stack front-end.
 
 ## 🚀 Começando
@@ -13,7 +13,8 @@ Ainda não foram feitos testes nesse projeto
 ```
 
 ## 🛠️ Construído com
-
+* [MongoDB](https://www.mongodb.com/pt-br) - Banco de Dados 💺
+* [Express](https://expressjs.com/) - NodeJS Framework 💻
 * [ReactJS](https://reactjs.org/) - Front-End 🖌️
 * [NodeJS](https://nodejs.org/en/) - Back-end 👨‍💻
 * [NPM](https://www.npmjs.com/) - Gerente de Dependência 📥
