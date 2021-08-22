@@ -3,6 +3,7 @@ const cors = require('cors');
 const express = require('express');
 const mongoose = require('mongoose');
 const cookieParser = require('cookie-parser');
+const routes = require('./src/routes');
 
 const app = express();
 const port = process.env.PORT || 5000;
@@ -23,9 +24,7 @@ app.use(cors());
 app.use(cookieParser());
 app.use(express.json());
 
-app.get('/', function(req,res){
-    res.json({message: 'Hello World'})
-})
+app.use(routes);
 
 app.listen(port, function(){
     console.log(`Servidor está rodando na porta ${port}`)
